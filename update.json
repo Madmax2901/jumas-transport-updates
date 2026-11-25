@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "0.4.0",
-  "apkUrl": "https://github.com/Madmax2901/jumas-transport-updates/releases/download/v0.4.0/JUMAS-Transport.apk",
-  "sha256": "793c301a411c8e847a15a9ae267d431f32991d3a28638b835374a2af4754a841",
+  "versionCode": 6,
+  "versionName": "0.4.1",
+  "apkUrl": "https://github.com/Madmax2901/jumas-transport-updates/releases/download/v0.4.1/JUMAS-Transport.apk",
+  "sha256": "e02d18a543089cf200487d8255f26a9e8183172965746ea0bb292641a24f6064",
   "notes": "Nouvelle version Android."
 }
